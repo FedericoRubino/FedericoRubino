@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **FedericoRubino/FedericoRubino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![visitors](https://badges.pufler.dev/visits/FedericoRubino/FedericoRubino)![years](https://badges.pufler.dev/years/FedericoRubino) 
@@ -19,7 +19,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 <br />
 <br />
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
