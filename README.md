@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**FedericoRubino/FedericoRubino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ![visitors](https://badges.pufler.dev/visits/FedericoRubino/FedericoRubino)![years](https://badges.pufler.dev/years/FedericoRubino) 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FedericoRubino)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,6 +20,7 @@
 <br />
 <br />
 <!--
+**FedericoRubino/FedericoRubino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
