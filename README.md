@@ -2,7 +2,7 @@
 
 
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FedericoRubino)](https://github.com/anuraghazra/github-readme-stats)
 ![visitors](https://badges.pufler.dev/visits/FedericoRubino/FedericoRubino)![years](https://badges.pufler.dev/years/FedericoRubino) 
 
 ## Languages and Tools:
@@ -17,9 +17,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
-<br />
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FedericoRubino)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+
 <!--
 **FedericoRubino/FedericoRubino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
