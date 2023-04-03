@@ -1,4 +1,11 @@
 # Federico Rubino
+## Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoRubino&layout=compact)
+
+<br />
+<br />
+<br />
+
 <!--
 **FedericoRubino/FedericoRubino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
